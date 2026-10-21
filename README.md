@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:06B6D4&height=220&section=header&text=THIRD&fontSize=70&fontColor=FFFFFF&fontAlignY=36&desc=Developer%20%C2%B7%20CS%20Student%20%C2%B7%20Builder&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Hi+%F0%9F%91%8B+I'm+THIRD;CS+Student+%40+Thammasat+University;I+build+web+apps+that+people+actually+use;Web+%C2%B7+AI+%C2%B7+Automation+%C2%B7+UI%2FUX" alt="Typing SVG"/>
+<a href="README.md"><img src="https://img.shields.io/badge/🇬🇧_English-06B6D4?style=for-the-badge"/></a> <a href="README.th.md"><img src="https://img.shields.io/badge/🇹🇭_ภาษาไทย-21262D?style=for-the-badge"/></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Hey+there+%F0%9F%91%8B+I'm+THIRD;CS+student+%40+Thammasat;I+like+building+stuff+people+actually+use;Web+%C2%B7+AI+%C2%B7+Automation+%C2%B7+Games" alt="Typing SVG"/>
 
 <a href="https://github.com/twain2350?tab=repositories"><img src="https://img.shields.io/badge/🚀_Projects-0D1117?style=for-the-badge"/></a>
 <a href="https://github.com/twain2350?tab=followers"><img src="https://img.shields.io/github/followers/twain2350?style=for-the-badge&logo=github&label=Followers&color=6366F1&labelColor=0D1117"/></a>
@@ -12,40 +14,18 @@
 
 ---
 
-## 👋 About Me · เกี่ยวกับฉัน
+## 👋 Hey, I'm THIRD
 
-<table>
-<tr>
-<td width="50%" valign="top">
+CS student from Thailand 🇹🇭 who just really likes building things. I'll take a random idea and keep hacking on it until it actually works — flood maps, field-tracking apps, multiplayer card games, you name it.
 
-**🇬🇧 English**
-
-I'm **THIRD**, a Computer Science student from Thailand 🇹🇭 who loves turning ideas into working software — from flood-reporting apps to multiplayer card games.
-
-- 🌐 Full-Stack Web Development
-- 🤖 AI & Automation
-- 🎨 UI/UX Design
-- 🧩 Game & Interactive Web
-
-</td>
-<td width="50%" valign="top">
-
-**🇹🇭 ภาษาไทย**
-
-สวัสดีครับ/ค่ะ ฉันชื่อ **THIRD** นักศึกษาวิทยาการคอมพิวเตอร์ ชอบเปลี่ยนไอเดียให้กลายเป็นซอฟต์แวร์ที่ใช้งานได้จริง ตั้งแต่เว็บรายงานน้ำท่วมไปจนถึงเกมการ์ดออนไลน์
-
-- 🌐 พัฒนาเว็บแบบ Full-Stack
-- 🤖 AI และระบบอัตโนมัติ
-- 🎨 ออกแบบ UI/UX
-- 🧩 เกมและเว็บแบบอินเทอร์แอกทีฟ
-
-</td>
-</tr>
-</table>
+- 🌐 Full-stack web stuff
+- 🤖 Messing around with AI & automation
+- 🎨 Making UIs that don't look boring
+- 🎮 Fun interactive web games
 
 ---
 
-## 🛠️ Tech Stack · เครื่องมือที่ใช้
+## 🛠️ What I use
 
 <div align="center">
 
@@ -57,7 +37,7 @@ I'm **THIRD**, a Computer Science student from Thailand 🇹🇭 who loves turni
 
 ---
 
-## 🚀 Projects · ผลงาน
+## 🚀 Stuff I've built
 
 <table>
 <tr>
@@ -68,20 +48,16 @@ I'm **THIRD**, a Computer Science student from Thailand 🇹🇭 who loves turni
 </td>
 <td width="50%" valign="top">
 
-**🇬🇧** Community flood-reporting web app for Samut Prakan — pin flood spots on a map, report water levels, and follow the situation live.
+A flood-reporting app for Samut Prakan. People drop a pin, say how deep the water is, and everyone can see what's going on in real time.
 
-**🇹🇭** เว็บแอปให้ชาวสมุทรปราการรายงานน้ำท่วม ปักหมุดจุดน้ำท่วมบนแผนที่ แจ้งระดับน้ำ และติดตามสถานการณ์แบบเรียลไทม์
-
-`📍 Map` `📝 Community Reports` `📱 Mobile-first`
+`📍 Map` `📝 Reports` `📱 Mobile-first`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🇬🇧** Field-staff tracking system — geofenced customer zones, live GPS, photo check-ins and zone alerts for teams working outside the office.
-
-**🇹🇭** ระบบติดตามพนักงานภาคสนาม กำหนดโซนลูกค้า (Geofence) ติดตาม GPS เช็กอินพร้อมรูปถ่าย และแจ้งเตือนเมื่อเข้า-ออกโซน
+An app for teams working out in the field. Set up customer zones on a map, track GPS, check in with a photo, and get pinged when someone enters or leaves a zone.
 
 `🗺️ Geofencing` `📍 GPS` `📸 Check-in` `🔔 Alerts`
 
@@ -96,13 +72,11 @@ I'm **THIRD**, a Computer Science student from Thailand 🇹🇭 who loves turni
 <td width="50%" valign="top" align="center">
 <img src="assets/element-clash.svg" width="100%"/>
 
-### ⚔️ ธาตุปะทะ · Element Clash
+### ⚔️ Element Clash · ธาตุปะทะ
 </td>
 <td width="50%" valign="top">
 
-**🇬🇧** Real-time multiplayer web card game for 2–5 players. Join by room code — no login — play with friends or add bots, with flashy elemental effects.
-
-**🇹🇭** เกมการ์ดออนไลน์เล่นได้ 2–5 คน เข้าห้องด้วยรหัส ไม่ต้องล็อกอิน เล่นกับเพื่อนหรือเพิ่มบอทได้ พร้อมเอฟเฟกต์ธาตุจัดเต็ม
+My multiplayer card game! 2–5 players, jump in with a room code (no sign-up), play with friends or throw in some bots. Lots of flashy element effects.
 
 `🎮 Multiplayer` `🤖 Bots` `🔑 Room Code`
 
@@ -111,9 +85,7 @@ I'm **THIRD**, a Computer Science student from Thailand 🇹🇭 who loves turni
 <tr>
 <td width="50%" valign="top">
 
-**🇬🇧** Personal experiments connecting smart-home devices with local AI — voice commands, automations and API integrations.
-
-**🇹🇭** การทดลองเชื่อมอุปกรณ์สมาร์ตโฮมเข้ากับ AI ที่รันในเครื่อง สั่งงานด้วยเสียง ทำระบบอัตโนมัติ และเชื่อมต่อ API
+Side experiments hooking up smart-home gadgets to AI running locally. Talk to it, it does things. Lights, plugs, automations — the fun stuff.
 
 `💡 IoT` `🎙️ Voice` `🔗 Automation`
 
@@ -132,9 +104,7 @@ I'm **THIRD**, a Computer Science student from Thailand 🇹🇭 who loves turni
 </td>
 <td width="50%" valign="top">
 
-**🇬🇧** Scripts that turn spreadsheets into print-ready PDFs — student rosters, sign-in sheets for 130+ students, and game cards — with full Thai font support.
-
-**🇹🇭** สคริปต์แปลงข้อมูลจากสเปรดชีตเป็น PDF พร้อมพิมพ์ เช่น รายชื่อนักศึกษา ใบเซ็นชื่อกว่า 130 คน และการ์ดเกม รองรับฟอนต์ภาษาไทยเต็มรูปแบบ
+Little scripts that turn spreadsheets into print-ready PDFs — rosters, sign-in sheets for 130+ students, game cards — with Thai fonts that actually render properly.
 
 `📊 Excel` `🖨️ PDF` `🇹🇭 Thai Fonts`
 
@@ -144,7 +114,7 @@ I'm **THIRD**, a Computer Science student from Thailand 🇹🇭 who loves turni
 
 ---
 
-## 📊 GitHub Stats · สถิติ
+## 📊 GitHub stats
 
 <div align="center">
 
@@ -156,15 +126,15 @@ I'm **THIRD**, a Computer Science student from Thailand 🇹🇭 who loves turni
 
 ---
 
-## 🎯 Now · ตอนนี้กำลัง
+## 🎯 What I'm up to
 
 <div align="center">
 
-| 🔭 Exploring · สำรวจ | 🎨 Building · สร้าง | 🧠 Learning · เรียนรู้ |
+| 🔭 Exploring | 🎨 Building | 🧠 Learning |
 |:---:|:---:|:---:|
 | AI & Automation | Element Clash 🎮 | Computer Architecture & OS |
 | Realtime Web | GreenTrip 🌿 | Computer Networks |
-| Thai FinTech | Useful Web Tools | Clean Architecture |
+| Thai FinTech | Handy web tools | Writing cleaner code |
 
 </div>
 
@@ -172,14 +142,13 @@ I'm **THIRD**, a Computer Science student from Thailand 🇹🇭 who loves turni
 
 <div align="center">
 
-## 🤝 Let's Connect · มาคุยกัน
+## 🤝 Say hi!
 
 <a href="https://github.com/twain2350"><img src="https://img.shields.io/badge/GitHub-twain2350-181717?style=for-the-badge&logo=github"/></a>
 
 <br/><br/>
 
-*"Less noise. More creativity. Better code."*<br/>
-*เสียงรบกวนน้อยลง ความคิดสร้างสรรค์มากขึ้น โค้ดที่ดีขึ้น*
+*"Less noise. More creativity. Better code."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0D1117&height=120&section=footer" width="100%"/>
 
