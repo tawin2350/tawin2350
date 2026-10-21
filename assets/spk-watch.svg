@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0E2A47"/></linearGradient>
+<linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#06B6D4" stop-opacity=".7"/><stop offset="1" stop-color="#0369A1" stop-opacity=".2"/></linearGradient></defs>
+<rect width="400" height="240" rx="16" fill="url(#bg)"/>
+<rect x="16" y="14" width="368" height="26" rx="8" fill="#ffffff10"/><circle cx="30" cy="27" r="4" fill="#F87171"/><circle cx="44" cy="27" r="4" fill="#FBBF24"/><circle cx="58" cy="27" r="4" fill="#34D399"/>
+<text x="200" y="31" fill="#94A3B8" font-size="11" text-anchor="middle">SPK WATCH · Flood Report</text>
+<g stroke="#ffffff14"><path d="M20 70H230M20 110H230M20 150H230M20 190H230M60 50V220M120 50V220M180 50V220"/></g>
+<path d="M20 175 Q70 160 120 172 T230 168 V220 H20Z" fill="url(#w)"><animate attributeName="d" dur="4s" repeatCount="indefinite" values="M20 175 Q70 160 120 172 T230 168 V220 H20Z;M20 168 Q70 180 120 165 T230 176 V220 H20Z;M20 175 Q70 160 120 172 T230 168 V220 H20Z"/></path>
+<g><circle cx="90" cy="105" r="6" fill="#EF4444"/><circle cx="90" cy="105" r="6" fill="none" stroke="#EF4444"><animate attributeName="r" values="6;20" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="1.6s" repeatCount="indefinite"/></circle></g>
+<g><circle cx="165" cy="135" r="6" fill="#F59E0B"/><circle cx="165" cy="135" r="6" fill="none" stroke="#F59E0B"><animate attributeName="r" values="6;20" dur="1.6s" begin=".8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="1.6s" begin=".8s" repeatCount="indefinite"/></circle></g>
+<circle cx="200" cy="80" r="5" fill="#22C55E"/>
+<g font-size="10"><rect x="245" y="54" width="139" height="48" rx="10" fill="#ffffff0d" stroke="#EF444466"/><text x="257" y="74" fill="#FCA5A5" font-weight="700">● Water 45 cm</text><text x="257" y="91" fill="#94A3B8">Bang Phli · 2 min ago</text>
+<rect x="245" y="110" width="139" height="48" rx="10" fill="#ffffff0d" stroke="#F59E0B66"/><text x="257" y="130" fill="#FCD34D" font-weight="700">● Water 20 cm</text><text x="257" y="147" fill="#94A3B8">Mueang · 9 min ago</text>
+<rect x="245" y="166" width="139" height="48" rx="10" fill="#06B6D4"><animate attributeName="opacity" values=".75;1;.75" dur="2s" repeatCount="indefinite"/></rect><text x="314" y="194" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">+ Report Flood</text></g>
+</svg>

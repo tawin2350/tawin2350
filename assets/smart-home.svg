@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="400" height="240" rx="16" fill="#0F0A1F"/>
+<text x="24" y="36" fill="#C4B5FD" font-size="14" font-weight="800">Smart Home × Local AI</text>
+<g><circle cx="200" cy="135" r="34" fill="#7C3AED"/><text x="200" y="142" font-size="22" text-anchor="middle">🤖</text>
+<circle cx="200" cy="135" r="34" fill="none" stroke="#A78BFA"><animate attributeName="r" values="34;60" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="2s" repeatCount="indefinite"/></circle></g>
+<g stroke="#8B5CF6" stroke-width="2" stroke-dasharray="4 6"><path d="M80 80L172 120M320 80L228 120M80 190L172 150M320 190L228 150"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="1s" repeatCount="indefinite"/></path></g>
+<g font-size="22" text-anchor="middle"><circle cx="70" cy="75" r="26" fill="#1E1B3A" stroke="#8B5CF6"/><text x="70" y="83">💡</text>
+<circle cx="330" cy="75" r="26" fill="#1E1B3A" stroke="#8B5CF6"/><text x="330" y="83">🎙️</text>
+<circle cx="70" cy="195" r="26" fill="#1E1B3A" stroke="#8B5CF6"/><text x="70" y="203">🌡️</text>
+<circle cx="330" cy="195" r="26" fill="#1E1B3A" stroke="#8B5CF6"/><text x="330" y="203">🔌</text></g>
+<rect x="120" y="196" width="160" height="26" rx="13" fill="#ffffff10"/><text x="200" y="213" fill="#DDD6FE" font-size="11" text-anchor="middle">"Turn off the lights" ✓</text>
+</svg>
