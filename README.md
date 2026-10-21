@@ -1,176 +1,186 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:06B6D4&height=200&section=header&text=THIRD&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20CS%20Student%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
-<a href="https://github.com/twain2350">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Building+things+that+matter.;Turning+ideas+into+working+software.;Exploring+Web+Development+%26+AI.;Learning+something+new+every+day." alt="Typing SVG"/>
-</a>
-<br/>
-<a href="https://github.com/twain2350?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECTS-0D1117?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://github.com/twain2350?tab=followers">
-  <img src="https://img.shields.io/github/followers/twain2350?style=for-the-badge&logo=github&label=FOLLOWERS&color=6366F1&labelColor=0D1117" />
-</a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="80%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:06B6D4&height=220&section=header&text=THIRD&fontSize=70&fontColor=FFFFFF&fontAlignY=36&desc=Developer%20%C2%B7%20CS%20Student%20%C2%B7%20Builder&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Hi+%F0%9F%91%8B+I'm+THIRD;CS+Student+%40+Thammasat+University;I+build+web+apps+that+people+actually+use;Web+%C2%B7+AI+%C2%B7+Automation+%C2%B7+UI%2FUX" alt="Typing SVG"/>
+
+<a href="https://github.com/twain2350?tab=repositories"><img src="https://img.shields.io/badge/🚀_Projects-0D1117?style=for-the-badge"/></a>
+<a href="https://github.com/twain2350?tab=followers"><img src="https://img.shields.io/github/followers/twain2350?style=for-the-badge&logo=github&label=Followers&color=6366F1&labelColor=0D1117"/></a>
+<img src="https://komarev.com/ghpvc/?username=twain2350&style=for-the-badge&color=06B6D4&label=Profile+Views"/>
+
 </div>
 
-👋 About Me
+---
 
-name: THIRD
-role: Computer Science Student & Developer
-location: Thailand 🇹🇭
-interests:
-  - Full-Stack Web Development
-  - Software Engineering
-  - Artificial Intelligence
-  - UI/UX Design
-currently_focused_on:
-  - Building practical web applications
-  - Learning modern development tools
-  - Turning ideas into real-world projects
-
-💡 I enjoy building useful digital experiences, experimenting with new technologies, and solving problems through code.
-
-⸻
-
-🛠️ Tech Stack
-
-<div align="center">
-
-Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cpp&theme=dark" />
-
-Frameworks & Backend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel&theme=dark" />
-
-Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,docker,vscode,figma&theme=dark" />
-</div>
-
-⸻
-
-🚀 Things I’ve Built
+## 👋 About Me · เกี่ยวกับฉัน
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🌍 SPK WATCH
+**🇬🇧 English**
 
-Flood Reporting Web Application
+I'm **THIRD**, a Computer Science student from Thailand 🇹🇭 who loves turning ideas into working software — from flood-reporting apps to multiplayer card games.
 
-A web application designed to help people report and follow flood situations in Samut Prakan.
+- 🌐 Full-Stack Web Development
+- 🤖 AI & Automation
+- 🎨 UI/UX Design
+- 🧩 Game & Interactive Web
 
-* 📍 Location-based reporting
-* 📝 Community incident reports
-* 🌐 Web-based access
-* 📱 Mobile-friendly experience
-
-<br/>
-<a href="https://spkwatch.vercel.app/">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 </td>
 <td width="50%" valign="top">
 
-🧭 Field Work Management
+**🇹🇭 ภาษาไทย**
 
-Location-Based Work Tracking
+สวัสดีครับ/ค่ะ ฉันชื่อ **THIRD** นักศึกษาวิทยาการคอมพิวเตอร์ ชอบเปลี่ยนไอเดียให้กลายเป็นซอฟต์แวร์ที่ใช้งานได้จริง ตั้งแต่เว็บรายงานน้ำท่วมไปจนถึงเกมการ์ดออนไลน์
 
-A web application for managing employees working outside the office.
+- 🌐 พัฒนาเว็บแบบ Full-Stack
+- 🤖 AI และระบบอัตโนมัติ
+- 🎨 ออกแบบ UI/UX
+- 🧩 เกมและเว็บแบบอินเทอร์แอกทีฟ
 
-* 🗺️ Work zones and geofencing
-* 📍 GPS-based work tracking
-* 📸 Check-in with photo evidence
-* 🔔 Notifications for zone events
+</td>
+</tr>
+</table>
 
-<br/>
-<img src="https://img.shields.io/badge/WEB_APPLICATION-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+---
+
+## 🛠️ Tech Stack · เครื่องมือที่ใช้
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cpp,python&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,laravel&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,docker,git,github,vercel,vscode,figma&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Projects · ผลงาน
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<img src="assets/spk-watch.svg" width="100%"/>
+
+### 🌊 SPK WATCH
+</td>
+<td width="50%" valign="top">
+
+**🇬🇧** Community flood-reporting web app for Samut Prakan — pin flood spots on a map, report water levels, and follow the situation live.
+
+**🇹🇭** เว็บแอปให้ชาวสมุทรปราการรายงานน้ำท่วม ปักหมุดจุดน้ำท่วมบนแผนที่ แจ้งระดับน้ำ และติดตามสถานการณ์แบบเรียลไทม์
+
+`📍 Map` `📝 Community Reports` `📱 Mobile-first`
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-🏠 Smart Home & AI
+**🇬🇧** Field-staff tracking system — geofenced customer zones, live GPS, photo check-ins and zone alerts for teams working outside the office.
 
-Personal Automation Experiments
+**🇹🇭** ระบบติดตามพนักงานภาคสนาม กำหนดโซนลูกค้า (Geofence) ติดตาม GPS เช็กอินพร้อมรูปถ่าย และแจ้งเตือนเมื่อเข้า-ออกโซน
 
-Exploring ways to connect smart-home devices with local AI and automation workflows.
+`🗺️ Geofencing` `📍 GPS` `📸 Check-in` `🔔 Alerts`
 
-* 💡 Smart-device integrations
-* 🤖 Local AI experiments
-* 🎙️ Voice-triggered workflows
-* 🔗 Automation and API integrations
+</td>
+<td width="50%" valign="top" align="center">
+<img src="assets/greentrip.svg" width="100%"/>
 
-<br/>
-<img src="https://img.shields.io/badge/EXPERIMENTAL-8B5CF6?style=for-the-badge&logo=homeassistant&logoColor=white" />
+### 🌿 GreenTrip
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<img src="assets/element-clash.svg" width="100%"/>
+
+### ⚔️ ธาตุปะทะ · Element Clash
 </td>
 <td width="50%" valign="top">
 
-💻 Web & Software Projects
+**🇬🇧** Real-time multiplayer web card game for 2–5 players. Join by room code — no login — play with friends or add bots, with flashy elemental effects.
 
-Learning by Building
+**🇹🇭** เกมการ์ดออนไลน์เล่นได้ 2–5 คน เข้าห้องด้วยรหัส ไม่ต้องล็อกอิน เล่นกับเพื่อนหรือเพิ่มบอทได้ พร้อมเอฟเฟกต์ธาตุจัดเต็ม
 
-Developing web applications and software projects while exploring different technologies.
+`🎮 Multiplayer` `🤖 Bots` `🔑 Room Code`
 
-* ⚙️ Frontend and backend development
-* 🗄️ Database integration
-* 🐳 Docker and development environments
-* 🎨 UI/UX prototyping
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
-<a href="https://github.com/twain2350?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**🇬🇧** Personal experiments connecting smart-home devices with local AI — voice commands, automations and API integrations.
+
+**🇹🇭** การทดลองเชื่อมอุปกรณ์สมาร์ตโฮมเข้ากับ AI ที่รันในเครื่อง สั่งงานด้วยเสียง ทำระบบอัตโนมัติ และเชื่อมต่อ API
+
+`💡 IoT` `🎙️ Voice` `🔗 Automation`
+
+</td>
+<td width="50%" valign="top" align="center">
+<img src="assets/smart-home.svg" width="100%"/>
+
+### 🏠 Smart Home × AI
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<img src="assets/docs-automation.svg" width="100%"/>
+
+### 📄 Data → PDF Automation
+</td>
+<td width="50%" valign="top">
+
+**🇬🇧** Scripts that turn spreadsheets into print-ready PDFs — student rosters, sign-in sheets for 130+ students, and game cards — with full Thai font support.
+
+**🇹🇭** สคริปต์แปลงข้อมูลจากสเปรดชีตเป็น PDF พร้อมพิมพ์ เช่น รายชื่อนักศึกษา ใบเซ็นชื่อกว่า 130 คน และการ์ดเกม รองรับฟอนต์ภาษาไทยเต็มรูปแบบ
+
+`📊 Excel` `🖨️ PDF` `🇹🇭 Thai Fonts`
+
 </td>
 </tr>
 </table>
 
-⸻
+---
 
-📊 GitHub Analytics
-
-<div align="center">
-<a href="https://github.com/twain2350">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=twain2350&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=C9D1D9&ring_color=6366F1" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/twain2350">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twain2350&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-</a>
-<img src="https://streak-stats.demolab.com?user=twain2350&hide_border=true&background=0D1117&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub Contribution Streak"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=twain2350&bg_color=0D1117&color=C9D1D9&line=6366F1&point=06B6D4&area=true&area_color=312E81&hide_border=true" width="95%" alt="Contribution Graph"/>
-</div>
-
-⸻
-
-🎯 Current Journey
+## 📊 GitHub Stats · สถิติ
 
 <div align="center">
 
-🔭 Exploring	🎨 Creating	🧠 Learning
-Modern Web Technologies	Useful Web Applications	Software Engineering
-AI & Automation	Clean UI/UX	Better Code Architecture
-APIs & Databases	Real-World Solutions	New Development Tools
+<img src="https://streak-stats.demolab.com?user=twain2350&hide_border=true&background=0D1117&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=twain2350&bg_color=0D1117&color=C9D1D9&line=6366F1&point=06B6D4&area=true&area_color=312E81&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
-⸻
+---
 
-🤝 Let’s Connect
+## 🎯 Now · ตอนนี้กำลัง
 
 <div align="center">
-<a href="https://github.com/twain2350">
-<img src="https://img.shields.io/badge/GitHub-THIRD-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/twain2350?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
+| 🔭 Exploring · สำรวจ | 🎨 Building · สร้าง | 🧠 Learning · เรียนรู้ |
+|:---:|:---:|:---:|
+| AI & Automation | Element Clash 🎮 | Computer Architecture & OS |
+| Realtime Web | GreenTrip 🌿 | Computer Networks |
+| Thai FinTech | Useful Web Tools | Clean Architecture |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect · มาคุยกัน
+
+<a href="https://github.com/twain2350"><img src="https://img.shields.io/badge/GitHub-twain2350-181717?style=for-the-badge&logo=github"/></a>
+
+<br/><br/>
+
+*"Less noise. More creativity. Better code."*<br/>
+*เสียงรบกวนน้อยลง ความคิดสร้างสรรค์มากขึ้น โค้ดที่ดีขึ้น*
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0D1117&height=120&section=footer" width="100%"/>
-
-“Less noise. More creativity. Better code.”
-
-Designed & built by THIRD · 2026
 
 </div>
