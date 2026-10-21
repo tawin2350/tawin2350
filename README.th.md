@@ -1,153 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:06B6D4&height=220&section=header&text=THIRD&fontSize=70&fontColor=FFFFFF&fontAlignY=36&desc=Developer%20%C2%B7%20CS%20Student%20%C2%B7%20Builder&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<img src="assets/hero-th.svg" width="100%" alt="THIRD"/>
 
-<a href="README.md"><img src="https://img.shields.io/badge/🇬🇧_English-21262D?style=for-the-badge"/></a> <a href="README.th.md"><img src="https://img.shields.io/badge/🇹🇭_ภาษาไทย-06B6D4?style=for-the-badge"/></a>
-
-<img src="assets/terminal-th.svg" width="100%" alt="terminal"/>
-
-<a href="https://github.com/tawin2350?tab=repositories"><img src="https://img.shields.io/badge/🚀_Projects-0D1117?style=for-the-badge"/></a>
-<a href="https://github.com/tawin2350?tab=followers"><img src="https://img.shields.io/github/followers/tawin2350?style=for-the-badge&logo=github&label=Followers&color=6366F1&labelColor=0D1117"/></a>
-<img src="https://komarev.com/ghpvc/?username=tawin2350&style=for-the-badge&color=06B6D4&label=Profile+Views"/>
+<a href="README.md"><img src="assets/switch-th.svg" alt="English"/></a>
 
 </div>
 
----
+<br/>
 
-## 👋 สวัสดีครับ ผม THIRD
+<img src="assets/sec1-th.svg" width="100%"/>
+<img src="assets/about-th.svg" width="100%" alt="about"/>
 
-นักศึกษา CS จากไทยครับ 🇹🇭 ชอบสร้างของครับ มีไอเดียอะไรแปลกๆ ก็จะลองทำจนมันใช้ได้จริง ตั้งแต่แผนที่น้ำท่วม แอปติดตามงานภาคสนาม ไปจนถึงเกมการ์ดเล่นกับเพื่อน
+<br/>
 
-- 🌐 ทำเว็บ Full-stack
-- 🤖 เล่นกับ AI และระบบอัตโนมัติ
-- 🎨 ทำ UI ให้ดูไม่น่าเบื่อ
-- 🎮 ทำเกมบนเว็บสนุกๆ
-
----
-
-## 🛠️ เครื่องมือที่ผมใช้
+<img src="assets/sec2-th.svg" width="100%"/>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cpp,python&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,laravel&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,docker,git,github,vercel,vscode,figma&theme=dark" />
-
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,cpp,react,nextjs,tailwind&theme=dark&perline=8"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mysql,supabase,docker,figma&theme=dark&perline=8"/>
+  <br/><br/>
 </div>
 
----
-
-## 🚀 ของที่ผมทำ
+<img src="assets/sec3-th.svg" width="100%"/>
 
 <table>
-<tr>
-<td width="50%" valign="top" align="center">
-<img src="assets/spk-watch.svg" width="100%"/>
-
-### 🌊 SPK WATCH
-</td>
-<td width="50%" valign="top">
-
-เว็บรายงานน้ำท่วมในสมุทรปราการครับ ใครเจอน้ำท่วมก็ปักหมุด บอกระดับน้ำ แล้วทุกคนก็ดูสถานการณ์ได้แบบเรียลไทม์
-
-`📍 Map` `📝 Reports` `📱 Mobile-first`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-แอปสำหรับทีมที่ทำงานนอกออฟฟิศครับ กำหนดโซนลูกค้าบนแผนที่ ติดตาม GPS เช็กอินด้วยรูปถ่าย และมีแจ้งเตือนเวลามีคนเข้า-ออกโซน
-
-`🗺️ Geofencing` `📍 GPS` `📸 Check-in` `🔔 Alerts`
-
-</td>
-<td width="50%" valign="top" align="center">
-<img src="assets/greentrip.svg" width="100%"/>
-
-### 🌿 GreenTrip
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<img src="assets/element-clash.svg" width="100%"/>
-
-### ⚔️ Element Clash · ธาตุปะทะ
-</td>
-<td width="50%" valign="top">
-
-เกมการ์ดของผมเองครับ! เล่นได้ 2–5 คน เข้าห้องด้วยรหัส ไม่ต้องสมัคร จะเล่นกับเพื่อนหรือใส่บอทก็ได้ เอฟเฟกต์ธาตุจัดเต็ม
-
-`🎮 Multiplayer` `🤖 Bots` `🔑 Room Code`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-ลองเอาอุปกรณ์สมาร์ตโฮมมาต่อกับ AI ที่รันในเครื่องครับ สั่งด้วยเสียงได้ ทั้งไฟ ปลั๊ก และระบบอัตโนมัติต่างๆ
-
-`💡 IoT` `🎙️ Voice` `🔗 Automation`
-
-</td>
-<td width="50%" valign="top" align="center">
-<img src="assets/smart-home.svg" width="100%"/>
-
-### 🏠 Smart Home × AI
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<img src="assets/docs-automation.svg" width="100%"/>
-
-### 📄 Data → PDF Automation
-</td>
-<td width="50%" valign="top">
-
-สคริปต์เล็กๆ ที่แปลงสเปรดชีตเป็น PDF พร้อมพิมพ์ครับ ทั้งรายชื่อนักศึกษา ใบเซ็นชื่อ 130+ คน และการ์ดเกม ฟอนต์ไทยไม่เพี้ยน
-
-`📊 Excel` `🖨️ PDF` `🇹🇭 Thai Fonts`
-
-</td>
-</tr>
+<tr><td width="50%"><img src="assets/card-spk-th.svg" width="100%"/></td><td width="50%"><img src="assets/card-green-th.svg" width="100%"/></td></tr>
+<tr><td width="50%"><img src="assets/card-clash-th.svg" width="100%"/></td><td width="50%"><img src="assets/card-home-th.svg" width="100%"/></td></tr>
+<tr><td width="50%"><img src="assets/card-pdf-th.svg" width="100%"/></td><td width="50%"></td></tr>
 </table>
 
----
+<br/>
 
-## 📊 สถิติ GitHub
-
-<div align="center">
-
-<img src="assets/stats-terminal.svg" width="85%" alt="GitHub stats"/>
-
-</div>
-
----
-
-## 🎯 ช่วงนี้ทำอะไรอยู่
-
-<div align="center">
-
-| 🔭 กำลังสำรวจ | 🎨 กำลังสร้าง | 🧠 กำลังเรียน |
-|:---:|:---:|:---:|
-| AI & Automation | ธาตุปะทะ 🎮 | Computer Architecture & OS |
-| เว็บเรียลไทม์ | GreenTrip 🌿 | Computer Networks |
-| ฟินเทคไทย | เว็บเครื่องมือเล็กๆ | เขียนโค้ดให้สะอาดขึ้น |
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 ทักมาคุยกันได้ครับ
-
-<a href="https://github.com/tawin2350"><img src="https://img.shields.io/badge/GitHub-tawin2350-181717?style=for-the-badge&logo=github"/></a>
+<img src="assets/sec4-th.svg" width="100%"/>
+<img src="assets/stats-th.svg" width="100%" alt="GitHub stats"/>
 
 <br/><br/>
 
-*"เสียงรบกวนน้อยลง ความคิดสร้างสรรค์มากขึ้น โค้ดที่ดีขึ้น"*
+<img src="assets/sec5-th.svg" width="100%"/>
+<img src="assets/now-th.svg" width="100%" alt="right now"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0D1117&height=120&section=footer" width="100%"/>
+<br/><br/>
 
-</div>
+<img src="assets/footer-th.svg" width="100%"/>

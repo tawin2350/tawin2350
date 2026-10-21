@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="400" height="240" rx="16" fill="#F0FDF4"/>
+<rect x="16" y="14" width="368" height="26" rx="8" fill="#16A34A"/><text x="30" y="31" fill="#fff" font-size="12" font-weight="700">🌿 GreenTrip</text><text x="370" y="31" fill="#DCFCE7" font-size="10" text-anchor="end">Field Work Tracker</text>
+<rect x="16" y="50" width="240" height="176" rx="12" fill="#fff" stroke="#BBF7D0"/>
+<g stroke="#DCFCE7"><path d="M16 95H256M16 140H256M16 185H256M76 50V226M136 50V226M196 50V226"/></g>
+<circle cx="150" cy="130" r="55" fill="#22C55E22" stroke="#16A34A" stroke-dasharray="5 4"><animateTransform attributeName="transform" type="rotate" from="0 150 130" to="360 150 130" dur="20s" repeatCount="indefinite"/></circle>
+<path id="r" d="M40 205 C80 190 90 150 120 140 S170 120 150 130" fill="none" stroke="#16A34A" stroke-width="3" stroke-dasharray="6 5"/>
+<circle r="7" fill="#15803D" stroke="#fff" stroke-width="2"><animateMotion dur="5s" repeatCount="indefinite"><mpath href="#r"/></animateMotion></circle>
+<text x="150" y="80" fill="#15803D" font-size="10" text-anchor="middle" font-weight="700">Customer Zone</text>
+<g font-size="10"><rect x="266" y="50" width="118" height="54" rx="10" fill="#fff" stroke="#BBF7D0"/><text x="278" y="70" fill="#166534" font-weight="700">📸 Check-in</text><text x="278" y="88" fill="#64748B">09:42 · photo ✓</text>
+<rect x="266" y="112" width="118" height="54" rx="10" fill="#fff" stroke="#BBF7D0"/><text x="278" y="132" fill="#166534" font-weight="700">🔔 Entered zone</text><text x="278" y="150" fill="#64748B">GPS · live</text>
+<rect x="266" y="174" width="118" height="52" rx="10" fill="#16A34A"/><text x="325" y="196" fill="#fff" font-size="18" font-weight="800" text-anchor="middle">12</text><text x="325" y="214" fill="#DCFCE7" text-anchor="middle">visits today</text></g>
+</svg>
