@@ -4,11 +4,11 @@
 
 <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧_English-21262D?style=for-the-badge"/></a> <a href="README.th.md"><img src="https://img.shields.io/badge/🇹🇭_ภาษาไทย-06B6D4?style=for-the-badge"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&repeat=true&width=620&height=50&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%F0%9F%91%8B+%E0%B8%9C%E0%B8%A1+THIRD;CS+%40+%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C;Web+%C2%B7+AI+%C2%B7+Automation+%C2%B7+Games" alt="Typing SVG"/>
+<img src="assets/terminal-th.svg" width="100%" alt="terminal"/>
 
-<a href="https://github.com/twain2350?tab=repositories"><img src="https://img.shields.io/badge/🚀_Projects-0D1117?style=for-the-badge"/></a>
-<a href="https://github.com/twain2350?tab=followers"><img src="https://img.shields.io/github/followers/twain2350?style=for-the-badge&logo=github&label=Followers&color=6366F1&labelColor=0D1117"/></a>
-<img src="https://komarev.com/ghpvc/?username=twain2350&style=for-the-badge&color=06B6D4&label=Profile+Views"/>
+<a href="https://github.com/tawin2350?tab=repositories"><img src="https://img.shields.io/badge/🚀_Projects-0D1117?style=for-the-badge"/></a>
+<a href="https://github.com/tawin2350?tab=followers"><img src="https://img.shields.io/github/followers/tawin2350?style=for-the-badge&logo=github&label=Followers&color=6366F1&labelColor=0D1117"/></a>
+<img src="https://komarev.com/ghpvc/?username=tawin2350&style=for-the-badge&color=06B6D4&label=Profile+Views"/>
 
 </div>
 
@@ -118,9 +118,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=twain2350&hide_border=true&background=0D1117&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=twain2350&bg_color=0D1117&color=C9D1D9&line=6366F1&point=06B6D4&area=true&area_color=312E81&hide_border=true" width="95%" alt="Activity Graph"/>
+<img src="assets/stats-terminal.svg" width="85%" alt="GitHub stats"/>
 
 </div>
 
@@ -144,7 +142,7 @@
 
 ## 🤝 ทักมาคุยกันได้ครับ
 
-<a href="https://github.com/twain2350"><img src="https://img.shields.io/badge/GitHub-twain2350-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/tawin2350"><img src="https://img.shields.io/badge/GitHub-tawin2350-181717?style=for-the-badge&logo=github"/></a>
 
 <br/><br/>
 
